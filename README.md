@@ -22,6 +22,6 @@ The application was built using Python and employs object-oriented programming p
 To play the game, clone the repository and run the main Python script:
 
 ```bash
-git clone https://github.com/username/simply-python-rpg.git
+git clone https://github.com/chrisdalbano/python-turn-battle.git
 cd simply-python-rpg
 python main.py
